@@ -1,0 +1,45 @@
+AUTOMOBILE LOSS NOTICE DATE: 01/22/2026
+
+POLICY NUMBER: AUTO-2024-777999
+CARRIER NAIC CODE: 99887
+LINE OF BUSINESS: Personal Auto
+
+INSURED
+NAME OF INSURED (First, Middle, Last): Michael Robert Davis
+INSURED'S MAILING ADDRESS: 789 Elm Street, Naperville, IL 60540
+DATE OF BIRTH: 03/22/1990
+PHONE # PRIMARY: 630-555-4455
+E-MAIL ADDRESS PRIMARY: m.davis@email.com
+
+LOCATION OF LOSS
+DATE OF LOSS AND TIME: 01/20/2026 8:15 AM
+STREET: Route 59 and Ogden Avenue
+CITY, STATE, ZIP: Naperville, IL 60540
+COUNTRY: USA
+
+DESCRIPTION OF ACCIDENT:
+T-bone collision at intersection. Other vehicle ran red light and struck driver's side door. Driver sustained neck and back injuries and was transported to hospital by ambulance. Passenger also complained of shoulder pain.
+
+INSURED VEHICLE
+YEAR: 2023
+MAKE: Ford
+MODEL: Explorer
+BODY: SUV
+V.I.N.: 1FM5K8D82PGA12345
+PLATE NUMBER: XYZ7890 STATE: IL
+
+DRIVER'S NAME AND ADDRESS
+(Check if same as insured): X
+
+DESCRIBE DAMAGE:
+Driver's side door severely damaged, left front fender crushed, side airbags deployed, possible structural damage
+
+ESTIMATE AMOUNT: $18,500.00
+
+INJURED:
+Driver - Neck and back injury, transported to Edward Hospital
+Passenger - Shoulder pain, treated at scene
+
+WITNESSES OR PASSENGERS:
+Jane Davis (passenger), 789 Elm Street, Naperville, IL 60540, 630-555-4456
+Witness: Tom Wilson, 630-555-9988

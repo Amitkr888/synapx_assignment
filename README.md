@@ -1,6 +1,3 @@
-# synapx_assignment
-Synapx Assignment - Extract insured, policy number, vehicle info from ACORD PDF
-
 # Autonomous Insurance Claims Processing Agent
 
 An intelligent agent that automates the extraction, validation, and routing of First Notice of Loss (FNOL) documents for insurance claims processing.
@@ -342,4 +339,3 @@ For questions or issues:
 ---
 
 **Built with ❤️ for efficient insurance claims processing**
-

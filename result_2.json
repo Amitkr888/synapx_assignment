@@ -1,0 +1,25 @@
+{
+  "extractedFields": {
+    "policy_number": "AUTO-2024-555123",
+    "policyholder_name": "Sarah Elizabeth Johnson",
+    "effective_date": null,
+    "date_of_loss": "01/18/2026",
+    "time_of_loss": null,
+    "location_of_loss": "Unknown, Chicago, IL",
+    "description_of_accident": "Rear-ended at intersection. Story seems inconsistent regarding traffic light status.",
+    "claimant": "Sarah Elizabeth Johnson",
+    "driver_name": null,
+    "contact_phone": "312-555-7890",
+    "contact_email": null,
+    "asset_type": "vehicle",
+    "asset_id": null,
+    "vehicle_description": "2021 Honda Accord",
+    "estimated_damage": 32000.0,
+    "claim_type": "property_damage",
+    "line_of_business": null,
+    "naic_code": "54321"
+  },
+  "missingFields": [],
+  "recommendedRoute": "Investigation Queue",
+  "reasoning": "Description contains potential fraud indicators"
+}

@@ -1,0 +1,25 @@
+{
+  "extractedFields": {
+    "policy_number": "AUTO-2024-777999",
+    "policyholder_name": "Michael Robert Davis",
+    "effective_date": null,
+    "date_of_loss": "01/20/2026",
+    "time_of_loss": "8:15 AM",
+    "location_of_loss": "Route 59 and Ogden Avenue, Naperville, IL 60540",
+    "description_of_accident": "T-bone collision at intersection. Other vehicle ran red light and struck driver's side door. Driver sustained neck and back injuries and was transported to hospital by ambulance. Passenger also complained of shoulder pain.",
+    "claimant": "Michael Robert Davis",
+    "driver_name": null,
+    "contact_phone": "630-555-4455",
+    "contact_email": "m.davis@email.com",
+    "asset_type": "vehicle",
+    "asset_id": "1FM5K8D82PGA12345",
+    "vehicle_description": "2023 Ford Explorer",
+    "estimated_damage": 18500.0,
+    "claim_type": "injury",
+    "line_of_business": "Personal Auto",
+    "naic_code": "99887"
+  },
+  "missingFields": [],
+  "recommendedRoute": "Specialist Queue",
+  "reasoning": "Claim involves injury and requires specialist review"
+}

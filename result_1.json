@@ -1,0 +1,25 @@
+{
+  "extractedFields": {
+    "policy_number": "AUTO-2024-987654",
+    "policyholder_name": "John Michael Smith",
+    "effective_date": null,
+    "date_of_loss": "01/10/2026",
+    "time_of_loss": "3:30 PM",
+    "location_of_loss": "456 Oak Avenue, Springfield, IL 62702",
+    "description_of_accident": "Vehicle was proceeding south on Oak Avenue when a deer suddenly ran into the roadway. Driver applied brakes but was unable to avoid collision. Deer struck front right side of vehicle causing damage to hood, headlight, and front bumper. No other vehicles involved. Police were not called as this is a single-vehicle animal collision.",
+    "claimant": "John Michael Smith",
+    "driver_name": null,
+    "contact_phone": "217-555-0123",
+    "contact_email": "john.smith@email.com",
+    "asset_type": "vehicle",
+    "asset_id": "4T1B11HK1NU123456",
+    "vehicle_description": "2022 Toyota Camry",
+    "estimated_damage": 4500.0,
+    "claim_type": "property_damage",
+    "line_of_business": "Personal Auto",
+    "naic_code": "12345"
+  },
+  "missingFields": [],
+  "recommendedRoute": "Fast-Track",
+  "reasoning": "Estimated damage ($4,500.00) is below fast-track threshold ($25,000)"
+}

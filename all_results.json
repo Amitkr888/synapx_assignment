@@ -1,0 +1,86 @@
+[
+  {
+    "filename": "sample_fnol_1.txt",
+    "result": {
+      "extractedFields": {
+        "policy_number": "AUTO-2024-987654",
+        "policyholder_name": "John Michael Smith",
+        "effective_date": null,
+        "date_of_loss": "01/10/2026",
+        "time_of_loss": "3:30 PM",
+        "location_of_loss": "456 Oak Avenue, Springfield, IL 62702",
+        "description_of_accident": "Vehicle was proceeding south on Oak Avenue when a deer suddenly ran into the roadway. Driver applied brakes but was unable to avoid collision. Deer struck front right side of vehicle causing damage to hood, headlight, and front bumper. No other vehicles involved. Police were not called as this is a single-vehicle animal collision.",
+        "claimant": "John Michael Smith",
+        "driver_name": null,
+        "contact_phone": "217-555-0123",
+        "contact_email": "john.smith@email.com",
+        "asset_type": "vehicle",
+        "asset_id": "4T1B11HK1NU123456",
+        "vehicle_description": "2022 Toyota Camry",
+        "estimated_damage": 4500.0,
+        "claim_type": "property_damage",
+        "line_of_business": "Personal Auto",
+        "naic_code": "12345"
+      },
+      "missingFields": [],
+      "recommendedRoute": "Fast-Track",
+      "reasoning": "Estimated damage ($4,500.00) is below fast-track threshold ($25,000)"
+    }
+  },
+  {
+    "filename": "sample_fnol_2.txt",
+    "result": {
+      "extractedFields": {
+        "policy_number": "AUTO-2024-555123",
+        "policyholder_name": "Sarah Elizabeth Johnson",
+        "effective_date": null,
+        "date_of_loss": "01/18/2026",
+        "time_of_loss": null,
+        "location_of_loss": "Unknown, Chicago, IL",
+        "description_of_accident": "Rear-ended at intersection. Story seems inconsistent regarding traffic light status.",
+        "claimant": "Sarah Elizabeth Johnson",
+        "driver_name": null,
+        "contact_phone": "312-555-7890",
+        "contact_email": null,
+        "asset_type": "vehicle",
+        "asset_id": null,
+        "vehicle_description": "2021 Honda Accord",
+        "estimated_damage": 32000.0,
+        "claim_type": "property_damage",
+        "line_of_business": null,
+        "naic_code": "54321"
+      },
+      "missingFields": [],
+      "recommendedRoute": "Investigation Queue",
+      "reasoning": "Description contains potential fraud indicators"
+    }
+  },
+  {
+    "filename": "sample_fnol_3.txt",
+    "result": {
+      "extractedFields": {
+        "policy_number": "AUTO-2024-777999",
+        "policyholder_name": "Michael Robert Davis",
+        "effective_date": null,
+        "date_of_loss": "01/20/2026",
+        "time_of_loss": "8:15 AM",
+        "location_of_loss": "Route 59 and Ogden Avenue, Naperville, IL 60540",
+        "description_of_accident": "T-bone collision at intersection. Other vehicle ran red light and struck driver's side door. Driver sustained neck and back injuries and was transported to hospital by ambulance. Passenger also complained of shoulder pain.",
+        "claimant": "Michael Robert Davis",
+        "driver_name": null,
+        "contact_phone": "630-555-4455",
+        "contact_email": "m.davis@email.com",
+        "asset_type": "vehicle",
+        "asset_id": "1FM5K8D82PGA12345",
+        "vehicle_description": "2023 Ford Explorer",
+        "estimated_damage": 18500.0,
+        "claim_type": "injury",
+        "line_of_business": "Personal Auto",
+        "naic_code": "99887"
+      },
+      "missingFields": [],
+      "recommendedRoute": "Specialist Queue",
+      "reasoning": "Claim involves injury and requires specialist review"
+    }
+  }
+]

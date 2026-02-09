@@ -1,0 +1,53 @@
+AUTOMOBILE LOSS NOTICE DATE: 01/15/2026
+
+POLICY NUMBER: AUTO-2024-987654
+CARRIER NAIC CODE: 12345
+LINE OF BUSINESS: Personal Auto
+
+INSURED
+NAME OF INSURED (First, Middle, Last): John Michael Smith
+INSURED'S MAILING ADDRESS: 123 Main Street, Springfield, IL 62701
+DATE OF BIRTH: 05/15/1985
+PHONE # PRIMARY: 217-555-0123
+E-MAIL ADDRESS PRIMARY: john.smith@email.com
+
+LOCATION OF LOSS
+DATE OF LOSS AND TIME: 01/10/2026 3:30 PM
+STREET: 456 Oak Avenue
+CITY, STATE, ZIP: Springfield, IL 62702
+COUNTRY: USA
+
+DESCRIPTION OF ACCIDENT:
+Vehicle was proceeding south on Oak Avenue when a deer suddenly ran into the roadway. Driver applied brakes but was unable to avoid collision. Deer struck front right side of vehicle causing damage to hood, headlight, and front bumper. No other vehicles involved. Police were not called as this is a single-vehicle animal collision.
+
+INSURED VEHICLE
+VEH # 1 YEAR: 2022
+MAKE: Toyota
+MODEL: Camry
+BODY: Sedan
+V.I.N.: 4T1B11HK1NU123456
+PLATE NUMBER: ABC1234 STATE: IL
+
+DRIVER'S NAME AND ADDRESS
+(Check if same as insured): X
+DRIVER'S LICENSE NUMBER: S123-4567-8901 STATE: IL
+RELATION TO INSURED: Self
+
+DESCRIBE DAMAGE:
+Front right hood damaged, headlight cracked, front bumper dented and scratched. Right front fender has minor dent.
+
+ESTIMATE AMOUNT: $4,500.00
+WHERE CAN VEHICLE BE SEEN?: 123 Main Street, Springfield, IL 62701
+WHEN CAN VEHICLE BE SEEN?: Weekdays after 5 PM, weekends anytime
+
+OWNER'S NAME AND ADDRESS
+(Check if same as insured): X
+
+1. WAS A STANDARD CHILD PASSENGER RESTRAINT SYSTEM (CHILD SEAT) INSTALLED IN THE VEHICLE AT THE TIME OF THE ACCIDENT? N
+2. WAS THE CHILD PASSENGER RESTRAINT SYSTEM (CHILD SEAT) IN USE BY A CHILD DURING THE TIME OF THE ACCIDENT? N
+3. DID THE CHILD PASSENGER RESTRAINT SYSTEM (CHILD SEAT) SUSTAIN A LOSS AT THE TIME OF THE ACCIDENT? N
+
+WITNESSES OR PASSENGERS: None
+
+REPORTED BY: John M. Smith
+REPORTED TO: ABC Insurance Company
